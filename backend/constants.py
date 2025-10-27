@@ -1,0 +1,1 @@
+DOCS_INDEX_NAME = "PetoPeta_Combined_Docs_OpenAI_text_embedding_3_small"
